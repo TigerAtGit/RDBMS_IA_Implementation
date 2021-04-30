@@ -1,2 +1,5 @@
 # RDBMS_IA_Implementation
-Submissions for RDBMS Internal Assessment
+## Python notebook file having Data Analysis is Uploaded in this repository.
+### Name: Piyush Sharma
+### Roll no. 1911104
+### Batch: B3
